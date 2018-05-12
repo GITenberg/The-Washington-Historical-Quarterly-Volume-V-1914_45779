@@ -1,0 +1,32 @@
+_repo: The-Washington-Historical-Quarterly-Volume-V-1914_45779
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45779-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Meany, Edmond S. (Edmond Stephen)
+    alias: Meany, Edmond Stephen
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '41628'
+    url: http://www.gutenberg.org/2009/agents/41628
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45779'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Pacific -- History -- Periodicals'
+- !lcc 'F850.5'
+title: The Washington Historical Quarterly, Volume V, 1914
+url: http://www.gutenberg.org/ebooks/45779
